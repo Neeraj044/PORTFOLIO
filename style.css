@@ -32,6 +32,15 @@ section h2{
      color: #1a1a2e;
     
 }
+ 
+#about p{
+    font-size: 18px;
+    line-height: 1.8;
+    text-align: justify;
+    color: #333;
+    margin-bottom: 20px;
+
+}
 
 #hero{
     text-align: center;
